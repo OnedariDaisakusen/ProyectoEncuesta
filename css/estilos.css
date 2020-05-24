@@ -1,0 +1,16 @@
+#fondo{
+    width: 100%;
+    height: 100%;
+    background-color: #09AAE0;
+    padding: 5px;
+    
+}
+
+#contenedor{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#contenedor h1{
+    color: #072945;
+}
